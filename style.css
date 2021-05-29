@@ -5,7 +5,7 @@
 	font-weight: normal;
 	src: local('circe'),
 		url(
-			flexoproject/font/circe.ttf); 
+			flexproject/font/circe.ttf); 
 }
 /*жирный шрифт*/
 @font-face {
